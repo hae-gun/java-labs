@@ -42,7 +42,7 @@ bin/
 .DS_Store
 
 .idea/
-./gradle/
-./gradle/wrapper/
-./gradlew
-./gradlew.bat
+/gradle/
+/gradle/wrapper/
+/gradlew
+/gradlew.bat
